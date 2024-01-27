@@ -6,4 +6,4 @@
 
 <h1 align="left" style="color: blue;"><b>RULES OF THE GABMLE🚩</b></h1>	
 
-###(I) A Single turn on of gambling
+### (I) A Single turn on of gambling
