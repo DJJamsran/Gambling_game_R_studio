@@ -4,7 +4,7 @@
 
 <img alt="GIF" src="https://github.com/DJJamsran/images/blob/main/RlY0.gif" width="250"/>
 
-
+<h1 align="left"><b>RULES OF THE GABMLE</b></h1>
 
 
 
