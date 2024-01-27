@@ -8,7 +8,7 @@
 let's cook up the code for one round of the game! Here's the scoop on how the game's algorithm goes:
 <br>
 
-### (I) A Single turn on of gambling
+### (I) A Single Roll on of gambling
 - Randomly choose a bet that is one of the following values **10, 15, 20, 25 . . . , 90, 95, 100**
 - Simulate the roll of a pair of **fair dice** 🎲🎲
 - 🔔 Determine the outcome of the roll as follows...
@@ -25,7 +25,7 @@ let's cook up the code for one round of the game! Here's the scoop on how the ga
 ### (III) Greate a calculator on profit! 
 - What is the player profit after 10 bets by making use of **Single role** & **Bet Generator**
 
-### (III) Greate a player profile! 
+### (III) Generate a player profile! 
 - What is the overall position for the player after one hundred turns of the game, where every turn consists of a $50 bet? The position should consist of
 	- **Total Outlay**
 	- **Total winnings**
