@@ -33,36 +33,6 @@ SingleRoll <- function() {
 }
 SingleRoll()
 
-#(ii)
-#Wrap the dice simulation and return calculator you developed (i),
-#within a function that looks like
-
-SingleRoll <- function(bet = 50) {
-  #First digit refer to a face of the first dice, the second digit refers to
-  # a face of the second dice
-  z <- c(11:16, 21:26,31:36,41:46, 51:56, 61:66)
-  # Simulate the roll of a pair of fair dice
-  roll <- sample(z,1)
-  
-  # Determine the outcome of the roll
-  if (roll %in% c(22,44) ) {
-    winmoney <- bet * 2
-    cat("You rolled", roll, ". Bet is", bet, ". You won $", winmoney, "!", "\n")
-  } else if (roll == 66) {
-    winmoney <- bet * 5
-    cat("You rolled", roll, ". Bet is", bet, ". You won $", winmoney, "!", "\n")
-    cat("Jackpot win!!!")
-  } else if (roll %in% c(11, 33, 55)) {
-    winmoney <- 0
-    cat("You rolled", roll, ". Bet is", bet, ". You lost your bet $", bet, "!", "\n")
-  } else {
-    winmoney <- bet/2
-    cat("You rolled", roll,". Bet is", bet,  ". You lost $", winmoney, "!", "\n")
-  }
-  return(winmoney)
-}
-SingleRoll()
-
 #(ii) - Bet generator
 #Insert within another function, the code you wrote in (i) 
 #Determining bet by using functional program to create "BetGenerator"
