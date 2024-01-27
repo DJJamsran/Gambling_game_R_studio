@@ -29,4 +29,4 @@ let's cook up the code for one round of the game! Here's the scoop on how the ga
 - What is the overall position for the player after one hundred turns of the game, where every turn consists of a $50 bet? The position should consist of
 	- **Total Outlay**
 	- **Total winnings**
- - **Overall profit**
+ 	- **Overall profit**
