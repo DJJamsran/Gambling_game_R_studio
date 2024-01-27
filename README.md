@@ -8,7 +8,11 @@
 
 ### (I) A Single turn on of gambling
 - Randomly choose a bet that is one of the following values **10, 15, 20, 25 . . . , 90, 95, 100**
-- Simulate the roll of a pair of fair dice
--  Determine the outcome of the roll as follows
+- Simulate the roll of a pair of **fair dice** 🎲🎲
+- Determine the outcome of the roll as follows
+  --- Any of the following results in losing your bet 11, 33, 55
+  --- Any of the following results in losing your bet 11, 33, 55
+  --- Any of the following results in losing your bet 11, 33, 55
+
 - 😄 Things I like: Movies 🎥, Hiking 🏞️, Chess ♟️, Meeting New People 🤝
 - ⚡ **Fun fact:** I love to **eat** out
