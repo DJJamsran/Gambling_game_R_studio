@@ -5,5 +5,8 @@
   <img alt="GIF" src="https://github.com/DJJamsran/images/blob/main/RlY0.gif" width="250"/>
 </div>
 
-### Rules of the gamble 💸
+<p>
+  <h1 align="left"><b>RULES OF THE GAMBLE💸</b></h1>
+</p>
+
 
