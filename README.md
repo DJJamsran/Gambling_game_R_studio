@@ -6,7 +6,7 @@
 </div>
 
 <p>
-  <h1 align="left"><b>RULES OF THE GAMBLE💸</b></h1>
+  <h1 align="left" style="color: blue;"><b>RULES OF THE GAMBLE💸</b></h1>
 </p>
 
 
