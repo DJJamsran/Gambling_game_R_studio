@@ -5,6 +5,7 @@
   <img alt="GIF" src="https://github.com/DJJamsran/images/blob/main/RlY0.gif" width="250"/>
 </div>
 
-<span style="color: green"> Some green text </span>
+<code style="color : blue">RULES OF THE GAMBLE</code>
+
 
 
